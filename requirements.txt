@@ -4,3 +4,4 @@ django-crispy-forms==1.7.2
 django-star-ratings==0.7.0
 Pillow==5.1.0
 sorl-thumbnail==12.5.0
+gunicorn==19.7.1
